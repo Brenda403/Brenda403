@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brenda403
-- 👀 I’m interested in crocheting
-- 🌱 I’m currently learning about coding and herbs
+- 👀 I’m interested in all things plants
+- 🌱 I’m currently learning about HTML CSS and JavaScript
 - 📫 How to reach me blendesco@aol.com
 
 <!---
